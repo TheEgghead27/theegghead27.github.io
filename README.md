@@ -2,7 +2,7 @@
 
 Hello! You've just stumbled upon my portfolio/blog/site thing.
 
-If you wanted a link to click, try [this](theegghead27.github.io).
+If you wanted a link to click, try [this](https://theegghead27.github.io/).
 
 The site is based on the [NuxtJS](https://nuxtjs.org/) [Content v2 Minimal Starter](https://content-v2.nuxtjs.org/).
 
