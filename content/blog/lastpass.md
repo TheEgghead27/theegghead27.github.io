@@ -1,3 +1,9 @@
+---
+title: 'Migrating TOTP keys from LastPass Authenticator to FreeOTP'
+description: "LastPass Authenticator added a QR code export feature, but it's restricted to its own app. Let's break it!"
+
+---
+
 # Migrating TOTP keys from LastPass Authenticator to FreeOTP
 
 For the longest time, LastPass Authenticator never had an option for exporting keys, so I was delighted to see a QR code exporter tool added in the latest release.
